@@ -1,0 +1,9 @@
+D:\Development\ExpenseClaimService\EC.Services\bin\Debug\EC.Services.dll
+D:\Development\ExpenseClaimService\EC.Services\bin\Debug\EC.Services.pdb
+D:\Development\ExpenseClaimService\EC.Services\bin\Debug\EC.Models.dll
+D:\Development\ExpenseClaimService\EC.Services\bin\Debug\EC.Models.pdb
+D:\Development\ExpenseClaimService\EC.Services\obj\Debug\EC.Services.csprojAssemblyReference.cache
+D:\Development\ExpenseClaimService\EC.Services\obj\Debug\EC.Services.csproj.CoreCompileInputs.cache
+D:\Development\ExpenseClaimService\EC.Services\obj\Debug\EC.Services.csproj.CopyComplete
+D:\Development\ExpenseClaimService\EC.Services\obj\Debug\EC.Services.dll
+D:\Development\ExpenseClaimService\EC.Services\obj\Debug\EC.Services.pdb

@@ -1,0 +1,15 @@
+D:\Development\Assignment\ExpenseClaimSolution\ExpenseClaimSolution\bin\Debug\netcoreapp2.1\ExpenseClaimSolution.deps.json
+D:\Development\Assignment\ExpenseClaimSolution\ExpenseClaimSolution\bin\Debug\netcoreapp2.1\ExpenseClaimSolution.runtimeconfig.json
+D:\Development\Assignment\ExpenseClaimSolution\ExpenseClaimSolution\bin\Debug\netcoreapp2.1\ExpenseClaimSolution.runtimeconfig.dev.json
+D:\Development\Assignment\ExpenseClaimSolution\ExpenseClaimSolution\bin\Debug\netcoreapp2.1\ExpenseClaimSolution.dll
+D:\Development\Assignment\ExpenseClaimSolution\ExpenseClaimSolution\bin\Debug\netcoreapp2.1\ExpenseClaimSolution.pdb
+D:\Development\Assignment\ExpenseClaimSolution\ExpenseClaimSolution\obj\Debug\netcoreapp2.1\ExpenseClaimSolution.csprojAssemblyReference.cache
+D:\Development\Assignment\ExpenseClaimSolution\ExpenseClaimSolution\obj\Debug\netcoreapp2.1\ExpenseClaimSolution.csproj.CoreCompileInputs.cache
+D:\Development\Assignment\ExpenseClaimSolution\ExpenseClaimSolution\obj\Debug\netcoreapp2.1\ExpenseClaimSolution.AssemblyInfoInputs.cache
+D:\Development\Assignment\ExpenseClaimSolution\ExpenseClaimSolution\obj\Debug\netcoreapp2.1\ExpenseClaimSolution.AssemblyInfo.cs
+D:\Development\Assignment\ExpenseClaimSolution\ExpenseClaimSolution\obj\Debug\netcoreapp2.1\ExpenseClaimSolution.csproj.CopyComplete
+D:\Development\Assignment\ExpenseClaimSolution\ExpenseClaimSolution\obj\Debug\netcoreapp2.1\ExpenseClaimSolution.dll
+D:\Development\Assignment\ExpenseClaimSolution\ExpenseClaimSolution\obj\Debug\netcoreapp2.1\ExpenseClaimSolution.pdb
+D:\Development\Assignment\ExpenseClaimSolution\ExpenseClaimSolution\bin\Debug\netcoreapp2.1\EC.Models.dll
+D:\Development\Assignment\ExpenseClaimSolution\ExpenseClaimSolution\bin\Debug\netcoreapp2.1\EC.Models.pdb
+D:\Development\Assignment\ExpenseClaimSolution\ExpenseClaimSolution\bin\Debug\netcoreapp2.1\ExpenseClaimSolution.dll.config

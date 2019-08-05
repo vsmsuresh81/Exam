@@ -1,0 +1,5 @@
+D:\Development\ExpenseClaimService\EC.Models\bin\Debug\EC.Models.dll
+D:\Development\ExpenseClaimService\EC.Models\bin\Debug\EC.Models.pdb
+D:\Development\ExpenseClaimService\EC.Models\obj\Debug\EC.Models.csproj.CoreCompileInputs.cache
+D:\Development\ExpenseClaimService\EC.Models\obj\Debug\EC.Models.dll
+D:\Development\ExpenseClaimService\EC.Models\obj\Debug\EC.Models.pdb

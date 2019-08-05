@@ -1,0 +1,86 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Development\\Assignment\\ExpenseClaimSolution\\ExpenseClaimSolution\\ExpenseClaimSolution.csproj": {}
+  },
+  "projects": {
+    "D:\\Development\\Assignment\\ExpenseClaimSolution\\EC.Models\\EC.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Development\\Assignment\\ExpenseClaimSolution\\EC.Models\\EC.Models.csproj",
+        "projectName": "EC.Models",
+        "projectPath": "D:\\Development\\Assignment\\ExpenseClaimSolution\\EC.Models\\EC.Models.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\Development\\Assignment\\ExpenseClaimSolution\\ExpenseClaimSolution\\ExpenseClaimSolution.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Development\\Assignment\\ExpenseClaimSolution\\ExpenseClaimSolution\\ExpenseClaimSolution.csproj",
+        "projectName": "ExpenseClaimSolution",
+        "projectPath": "D:\\Development\\Assignment\\ExpenseClaimSolution\\ExpenseClaimSolution\\ExpenseClaimSolution.csproj",
+        "packagesPath": "C:\\Users\\Pattu Kutty\\.nuget\\packages\\",
+        "outputPath": "D:\\Development\\Assignment\\ExpenseClaimSolution\\ExpenseClaimSolution\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Pattu Kutty\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "D:\\Development\\Assignment\\ExpenseClaimSolution\\EC.Models\\EC.Models.csproj": {
+                "projectPath": "D:\\Development\\Assignment\\ExpenseClaimSolution\\EC.Models\\EC.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "Serializer": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
